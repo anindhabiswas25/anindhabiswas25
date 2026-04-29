@@ -2,6 +2,9 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20&height=180&section=header&text=Anindha%20Biswas&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web3%20Developer&descAlignY=60&descSize=18" alt="header banner" />
 </p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=22D3EE&size=22&center=true&vCenter=true&width=500&lines=Web3+Developer;Smart+Contract+Engineer;Building+Decentralized+Apps;Multi-Chain+Architect" />
+</p>
 
 <!-- TAGLINE -->
 <p align="center">
