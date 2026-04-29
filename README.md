@@ -44,7 +44,7 @@
 <tr>
 <td width="55%" valign="top">
 
-###  About Me
+### 👾 About Me
 
 I build decentralized products across **smart contracts**, **dApp frontends**, and **multi-chain ecosystems** with a sharp focus on clean user experiences and reliable transaction flows.
 
