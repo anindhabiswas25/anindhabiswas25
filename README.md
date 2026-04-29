@@ -1,14 +1,9 @@
-<!-- HERO -->
+<!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif" width="720" alt="animated coding banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20&height=180&section=header&text=Anindha%20Biswas&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web3%20Developer&descAlignY=60&descSize=18" alt="header banner" />
 </p>
 
-<h1 align="center">Anindha Biswas</h1>
-
-<p align="center">
-  <strong>Web3 Developer</strong>
-</p>
-
+<!-- TAGLINE -->
 <p align="center">
   <i>Building decentralized products across smart contracts, dApp UX, and multi-chain ecosystems.</i>
 </p>
