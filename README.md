@@ -1,191 +1,236 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=90&section=header"/>
+<!-- ══════════════════════ FIRE HEADER BANNER ══════════════════════ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0000,25:3d0000,50:8b1a00,75:cc4400,100:ff8c00&height=140&section=header&text=&animation=fadeIn"/>
+
+<!-- ══════════════════════ HERO SECTION ══════════════════════ -->
 
 <div align="center">
-  <h1>
-    Anindha Biswas
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Dizzy.webp" width="28" />
-  </h1>
-  <h3>Web3 Developer | Smart Contracts | dApp UX | Multi-Chain Systems</h3>
-</div>
 
-<div style="display: flex; align-items: flex-start; justify-content: end;">
-  <img align="right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Coding Animation" width="460" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=42&duration=2800&pause=1200&color=FF6B00&background=00000000&center=true&vCenter=true&multiline=false&width=680&height=72&lines=Anindha+Biswas;Web3+Developer+%7C+Builder;Smart+Contract+Engineer;dApp+Architect+%26+Hacker" alt="Typing SVG" />
 
-  <div style="max-width: calc(100% - 420px);">
-    <h3> 🐦‍🔥 About Me:</h3>
+<br/>
 
-    <p>
-      I am a Web3 developer focused on building decentralized products across smart contracts,
-      dApp frontends, and multi-chain ecosystems. I enjoy creating clean user experiences,
-      reliable transaction flows, and protocol-aware architectures.
-    </p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3500&pause=2000&color=FF9A3C&background=00000000&center=true&vCenter=true&width=600&height=36&lines=%E2%96%B8+EVM+%7C+Solana+%7C+Stellar+%7C+Celo+%7C+Algorand+%E2%97%82;%E2%96%B8+Building+the+Decentralized+Future+%E2%97%82;%E2%96%B8+DeFi+%7C+Smart+Contracts+%7C+dApp+UX+%E2%97%82" alt="Subheading" />
 
-    <p>
-      Currently exploring EVM, Stellar, Solana, Celo, Algorand, and emerging Web3 ecosystems.
-      I love building hackathon projects, DeFi applications, and real-world blockchain solutions.
-    </p>
+<br/>
 
-    <p><b>Interests:</b> Web3 | DeFi | Smart Contracts | dApps | Hackathons | AI x Blockchain</p>
-
-    <b>Contacts:</b><br><br>
-
-    <a href="https://www.linkedin.com/in/anindha-biswas-819138337/" target="_blank">
-      <img src="https://skillicons.dev/icons?i=linkedin" />
-    </a>
-    <a href="https://x.com/AnindhaBiswas" target="_blank">
-      <img src="https://skillicons.dev/icons?i=twitter" />
-    </a>
-    <a href="https://www.instagram.com/i_anindha" target="_blank">
-      <img src="https://skillicons.dev/icons?i=instagram" />
-    </a>
-    <a href="https://t.me/anindhabiswas" target="_blank">
-      <img src="https://skillicons.dev/icons?i=telegram" />
-    </a>
-    <a href="mailto:funnypost00@gmail.com">
-      <img src="https://skillicons.dev/icons?i=gmail&theme=light" />
-    </a>
-  </div>
-</div>
-
-<br>
-
-<div align="center">
-  <h2>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp" width="32"/>
-    Tech Stack
-  </h2>
-
-<table width="100%">
-<tr>
-<td><b>Languages</b></td>
-<td width="100%">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,solidity,rust" />
-</td>
-</tr>
-
-<tr>
-<td><b>Frontend</b></td>
-<td>
-  <img src="https://skillicons.dev/icons?i=react,next,tailwind,html,css" />
-</td>
-</tr>
-
-<tr>
-<td><b>Backend</b></td>
-<td>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
-</td>
-</tr>
-
-<tr>
-<td><b>Tools</b></td>
-<td>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,bash,docker,figma" />
-</td>
-</tr>
-
-<tr>
-<td><b>Web3</b></td>
-<td>
-  <img src="https://img.shields.io/badge/Ethereum-1c1917?style=for-the-badge&logo=ethereum&logoColor=white" />
-  <img src="https://img.shields.io/badge/Solana-1c1917?style=for-the-badge&logo=solana&logoColor=white" />
-  <img src="https://img.shields.io/badge/Stellar-1c1917?style=for-the-badge&logo=stellar&logoColor=white" />
-  <img src="https://img.shields.io/badge/Celo-1c1917?style=for-the-badge&logo=celo&logoColor=white" />
-  <img src="https://img.shields.io/badge/Algorand-1c1917?style=for-the-badge&logo=algorand&logoColor=white" />
-</td>
-</tr>
-
-<tr>
-<td><b>Web3 Tools</b></td>
-<td>
-  <img src="https://img.shields.io/badge/Hardhat-7C3AED?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Foundry-7C3AED?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ethers.js-7C3AED?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Soroban-7C3AED?style=for-the-badge&logoColor=white" />
-</td>
-</tr>
-
-</table>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0382.gif" width="70%" />
-</div>
-
-<h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Rocket.webp" width="42" />
-  Featured Projects
-</h2>
-
-<table width="100%">
-<tr>
-<td width="50%">
-
-<h3>🔹 InDeX</h3>
-
-<p>
-A modern Web3 interface focused on streamlined access to on-chain data and clean dApp experience.
-</p>
-
-<a href="https://github.com/anindhabiswas25/InDeX">
-  <img src="https://img.shields.io/badge/View%20Project-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
+<!-- Social Badges -->
+<a href="https://www.linkedin.com/in/anindha-biswas-819138337/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%23FF6B00.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://x.com/AnindhaBiswas" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-%23FF4500.svg?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+<a href="https://www.instagram.com/i_anindha" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-%23FF3300.svg?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+<a href="https://t.me/anindhabiswas" target="_blank">
+  <img src="https://img.shields.io/badge/Telegram-%23FF6B00.svg?style=for-the-badge&logo=telegram&logoColor=white"/>
+</a>
+<a href="mailto:funnypost00@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-%23FF4500.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
+<br/><br/>
+
+[![](https://visitcount.itsvg.in/api?id=anindhabiswas25&label=Profile%20Views&color=9&icon=0&pretty=true)](https://visitcount.itsvg.in)
+
+</div>
+
+---
+
+<!-- ══════════════════════ ABOUT + GIF ══════════════════════ -->
+
+<table>
+<tr>
+<td width="55%" valign="top">
+
+###  About Me
+
+I build decentralized products across **smart contracts**, **dApp frontends**, and **multi-chain ecosystems** with a sharp focus on clean user experiences and reliable transaction flows.
+
+Currently exploring **EVM · Stellar · Solana · Celo · Algorand** and the intersection of **AI × Blockchain**.
+
+<br/>
+
+![](https://img.shields.io/badge/Focus-Web3%20%7C%20DeFi%20%7C%20Smart%20Contracts-FF6B00?style=flat-square&labelColor=1a0a00)
+![](https://img.shields.io/badge/Status-Building%20in%20Public-FF4500?style=flat-square&labelColor=1a0a00)
+![](https://img.shields.io/badge/Open%20To-Hackathons%20%26%20Collabs-FF8C00?style=flat-square&labelColor=1a0a00)
+
 </td>
-<td width="50%">
+<td width="45%" align="center" valign="middle">
 
-<h3>🔹 InvestX</h3>
-
-<p>
-A decentralized investment platform exploring on-chain financial flows and user-friendly Web3 interactions.
-</p>
-
-<a href="https://github.com/anindhabiswas25/InvestX">
-  <img src="https://img.shields.io/badge/View%20Project-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="360" style="border-radius: 12px;" />
 
 </td>
 </tr>
 </table>
 
-<br>
+<br/>
 
+<!-- ══════════════════════ DIVIDER ══════════════════════ -->
 <div align="center">
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0382.gif" width="70%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0000,50:8b1a00,100:ff8c00&height=3&width=80%&section=header"/>
 </div>
 
-<h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Bar%20Chart.webp" width="48" />
-  GitHub Stats
-</h2>
+<br/>
+
+<!-- ══════════════════════ TECH STACK ══════════════════════ -->
 
 <div align="center">
+
+##  Tech Stack
+
+</div>
+
+<table width="100%" align="center">
+<tr>
+<td align="center" width="130"><b>⚡ Languages</b></td>
+<td>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,solidity,rust&theme=dark" />
+</td>
+</tr>
+<tr>
+<td align="center"><b>🎨 Frontend</b></td>
+<td>
+  <img src="https://skillicons.dev/icons?i=react,next,tailwind,html,css&theme=dark" />
+</td>
+</tr>
+<tr>
+<td align="center"><b>⚙️ Backend</b></td>
+<td>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" />
+</td>
+</tr>
+<tr>
+<td align="center"><b>🔧 DevTools</b></td>
+<td>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,bash,docker,figma&theme=dark" />
+</td>
+</tr>
+<tr>
+<td align="center"><b>🔗 Chains</b></td>
+<td>
+  <img src="https://img.shields.io/badge/Ethereum-0d0000?style=for-the-badge&logo=ethereum&logoColor=FF6B00"/>
+  <img src="https://img.shields.io/badge/Solana-0d0000?style=for-the-badge&logo=solana&logoColor=FF8C00"/>
+  <img src="https://img.shields.io/badge/Stellar-0d0000?style=for-the-badge&logo=stellar&logoColor=FF4500"/>
+  <img src="https://img.shields.io/badge/Celo-0d0000?style=for-the-badge&logo=celo&logoColor=FFD700"/>
+  <img src="https://img.shields.io/badge/Algorand-0d0000?style=for-the-badge&logo=algorand&logoColor=FF6B00"/>
+</td>
+</tr>
+<tr>
+<td align="center"><b>🧰 Web3 Tools</b></td>
+<td>
+  <img src="https://img.shields.io/badge/Hardhat-0d0000?style=for-the-badge&logoColor=FF6B00&logo=ethereum"/>
+  <img src="https://img.shields.io/badge/Foundry-0d0000?style=for-the-badge&logoColor=FF8C00"/>
+  <img src="https://img.shields.io/badge/Ethers.js-0d0000?style=for-the-badge&logoColor=FF4500"/>
+  <img src="https://img.shields.io/badge/Soroban-0d0000?style=for-the-badge&logoColor=FFD700"/>
+  <img src="https://img.shields.io/badge/Wagmi-0d0000?style=for-the-badge&logoColor=FF6B00"/>
+  <img src="https://img.shields.io/badge/IPFS-0d0000?style=for-the-badge&logo=ipfs&logoColor=FF8C00"/>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ══════════════════════ DIVIDER ══════════════════════ -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff8c00,50:8b1a00,100:0d0000&height=3&width=80%&section=header"/>
+</div>
+
+<br/>
+
+<!-- ══════════════════════ FEATURED PROJECTS ══════════════════════ -->
+
+<div align="center">
+
+##  Featured Projects
+
+</div>
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+<div align="center">
+
+###  InDeX
+
+![](https://img.shields.io/badge/Web3-dApp%20Interface-FF6B00?style=flat-square&labelColor=0d0000)
+![](https://img.shields.io/badge/Status-Live-FF4500?style=flat-square&labelColor=0d0000)
+
+</div>
+
+A modern **Web3 interface** focused on streamlined access to on-chain data with a clean dApp experience. Built for users who demand clarity in a decentralized world.
+
+**Stack:** React · Ethers.js · Tailwind · EVM
+
+<div align="center">
+  <a href="https://github.com/anindhabiswas25/InDeX">
+    <img src="https://img.shields.io/badge/View%20Project%20→-FF6B00?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</div>
+
+</td>
+<td width="50%" valign="top">
+
+<div align="center">
+
+###  InvestX
+
+![](https://img.shields.io/badge/Web3-DeFi%20Protocol-FF8C00?style=flat-square&labelColor=0d0000)
+![](https://img.shields.io/badge/Status-Live-FF4500?style=flat-square&labelColor=0d0000)
+
+</div>
+
+A **decentralized investment platform** exploring on-chain financial flows with user-friendly Web3 interactions. Turning complex DeFi into seamless UX.
+
+**Stack:** Solidity · Next.js · Hardhat · EVM
+
+<div align="center">
+  <a href="https://github.com/anindhabiswas25/InvestX">
+    <img src="https://img.shields.io/badge/View%20Project%20→-FF8C00?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</div>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ══════════════════════ DIVIDER ══════════════════════ -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0000,50:8b1a00,100:ff8c00&height=3&width=80%&section=header"/>
+</div>
+
+<br/>
+
+<!-- ══════════════════════ GITHUB STATS ══════════════════════ -->
+
+<div align="center">
+
+##  GitHub Stats
+
+</div>
+
+<div align="center">
+
 <table>
 <tr>
 <td width="50%">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anindhabiswas25&theme=merko&bg_color=1c1917&color=ffffff&line=7C3AED&point=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anindhabiswas25&theme=github-compact&bg_color=0d0000&color=FF9A3C&line=FF6B00&point=FFD700&area=true&area_color=FF4500&hide_border=true&custom_title=%20Commit%20Activity" />
 </td>
 <td width="50%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anindhabiswas25&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=anindhabiswas25&theme=dark&hide_border=true&background=0d0000&ring=FF6B00&fire=FF4500&currStreakLabel=FFD700&sideLabels=FF9A3C&dates=FF8C00&stroke=FF6B00&currStreakNum=FF6B00&sideNums=FFD700" />
 </td>
 </tr>
+
+</tr>
 </table>
-</div>
-
-<br>
-
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 </div>
 
-<div align="center">
 
-[![](https://visitcount.itsvg.in/api?id=anindhabiswas25&icon=0&color=12)](https://visitcount.itsvg.in)
 
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=80&section=footer"/>
+<!-- ══════════════════════ FIRE FOOTER BANNER ══════════════════════ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff8c00,25:cc4400,50:8b1a00,75:3d0000,100:0d0000&height=130&section=footer&text=&animation=fadeIn"/>
