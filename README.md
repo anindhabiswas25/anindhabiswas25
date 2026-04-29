@@ -5,7 +5,7 @@
 
 <!-- TAGLINE -->
 <p align="center">
-  <i>Building decentralized products across smart contracts, dApp UX, and multi-chain ecosystems.</i>
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500"/>
 </p>
 
 <!-- SOCIALS -->
