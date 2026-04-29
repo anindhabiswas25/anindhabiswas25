@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=42&duration=2800&pause=1200&color=FF6B00&background=00000000&center=true&vCenter=true&multiline=false&width=680&height=72&lines=Anindha+Biswas;Web3+Developer+%7C+Builder;Smart+Contract+Engineer;dApp+Architect+%26+Hacker" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=42&duration=1&pause=999999&color=FF6B00&background=00000000&center=true&vCenter=true&width=680&height=72&lines=Anindha+Biswas" alt="Anindha Biswas" />
 
 <br/>
 
@@ -84,31 +84,31 @@ Currently exploring **EVM · Stellar · Solana · Celo · Algorand** and the int
 
 <table width="100%" align="center">
 <tr>
-<td align="center" width="130"><b>⚡ Languages</b></td>
+<td align="center" width="130"><b> Languages</b></td>
 <td>
   <img src="https://skillicons.dev/icons?i=js,ts,python,solidity,rust&theme=dark" />
 </td>
 </tr>
 <tr>
-<td align="center"><b>🎨 Frontend</b></td>
+<td align="center"><b> Frontend</b></td>
 <td>
   <img src="https://skillicons.dev/icons?i=react,next,tailwind,html,css&theme=dark" />
 </td>
 </tr>
 <tr>
-<td align="center"><b>⚙️ Backend</b></td>
+<td align="center"><b> Backend</b></td>
 <td>
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" />
 </td>
 </tr>
 <tr>
-<td align="center"><b>🔧 DevTools</b></td>
+<td align="center"><b> DevTools</b></td>
 <td>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,bash,docker,figma&theme=dark" />
 </td>
 </tr>
 <tr>
-<td align="center"><b>🔗 Chains</b></td>
+<td align="center"><b> Chains</b></td>
 <td>
   <img src="https://img.shields.io/badge/Ethereum-0d0000?style=for-the-badge&logo=ethereum&logoColor=FF6B00"/>
   <img src="https://img.shields.io/badge/Solana-0d0000?style=for-the-badge&logo=solana&logoColor=FF8C00"/>
@@ -118,7 +118,7 @@ Currently exploring **EVM · Stellar · Solana · Celo · Algorand** and the int
 </td>
 </tr>
 <tr>
-<td align="center"><b>🧰 Web3 Tools</b></td>
+<td align="center"><b> Web3 Tools</b></td>
 <td>
   <img src="https://img.shields.io/badge/Hardhat-0d0000?style=for-the-badge&logoColor=FF6B00&logo=ethereum"/>
   <img src="https://img.shields.io/badge/Foundry-0d0000?style=for-the-badge&logoColor=FF8C00"/>
